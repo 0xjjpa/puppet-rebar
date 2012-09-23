@@ -1,6 +1,6 @@
 # puppet-rebar
 
-Use puppet to set up [rebar](https://github.com/basho/rebar).
+Use puppet to set up [rebar](https://github.com/basho/rebar), an Erlang/OTP build tool.
 
 ## Usage
 
@@ -11,3 +11,8 @@ git submodule add https://github.com/domnikl/puppet-rebar.git modules/rebar
 ```
 
 or just copy all files to `modules/rebar`.
+
+## Author
+
+* Dominik Liebler
+
